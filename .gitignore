@@ -1,0 +1,14 @@
+/*.sdf
+/*.opensdf
+/x64
+/Win32
+Release
+Debug
+/cp2112_demo/Win32
+/cp2112_demo/x64
+/*.suo
+
+/.vs/cp2112_demo/v17/
+/.vs/cp2112_demo/FileContentIndex/790d22f0-19a4-4748-93f1-d97b371238ca.vsidx
+/cp2112_demo/cp2112_demo.vcxproj.user
+/README.md
